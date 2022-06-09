@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.py
+ortho_correct.egg-info/PKG-INFO
+ortho_correct.egg-info/SOURCES.txt
+ortho_correct.egg-info/dependency_links.txt
+ortho_correct.egg-info/requires.txt
+ortho_correct.egg-info/top_level.txt

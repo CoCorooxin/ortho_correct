@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+src/OrthoCorrect/OrthoCorrect.py
+src/OrthoCorrect/__init__.py
+src/OrthoCorrect.egg-info/PKG-INFO
+src/OrthoCorrect.egg-info/SOURCES.txt
+src/OrthoCorrect.egg-info/dependency_links.txt
+src/OrthoCorrect.egg-info/top_level.txt

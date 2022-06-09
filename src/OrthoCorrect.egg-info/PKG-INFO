@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: OrthoCorrect
+Version: 0.0.3
+Summary: a spell checker
+Home-page: https://github.com/pypa/sampleproject
+Author: Xin
+Author-email: chenxin9812@gmail.com
+Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+#### Spell Checker
+
+A spell checker for French language based on levenshstein distance and Peter Norvig generative algorithm. 
+
+The user can download the package through the command line
+
+
+

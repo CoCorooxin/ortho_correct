@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: OrthoCorrect
+Version: 0.0.4
+Summary: a spell checker
+Home-page: https://github.com/pypa/sampleproject
+Author: Xin
+Author-email: chenxin9812@gmail.com
+License-File: LICENSE.txt
